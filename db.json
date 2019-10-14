@@ -54,6 +54,31 @@
       "content": "Helloooo",
       "username": "test",
       "id": 11
+    },
+    {
+      "content": "new tweet",
+      "username": "kenny",
+      "id": 12
+    },
+    {
+      "content": "jkhsdhsakjhdk",
+      "username": "jdsbadkjsha",
+      "id": 13
+    },
+    {
+      "content": "hi",
+      "username": "kim",
+      "id": 14
+    },
+    {
+      "content": "hello",
+      "username": "kim",
+      "id": 15
+    },
+    {
+      "content": "hey",
+      "username": "kim",
+      "id": 16
     }
   ]
 }
